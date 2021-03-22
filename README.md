@@ -6,7 +6,7 @@
 ## :pencil: 공부 방식
 + LECTURE:computer: : 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 + 매주 Chapter 3개씩 공부
-+ 실습코드는 깃허브에, 공부 내용은 블로그에!
++ 실습코드는 깃허브에, 공부 내용은 [블로그](https://junyoung-developer.tistory.com/category/SPRING/%5B%EA%B0%95%EC%9D%98%5D%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EC%9E%85%EB%AC%B8%20%EA%B0%95%EC%9D%98)에!
 
 ## :bookmark_tabs: 진도
 |no.|Chapter|Day|
