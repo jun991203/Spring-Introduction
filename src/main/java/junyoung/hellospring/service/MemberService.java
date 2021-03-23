@@ -23,7 +23,6 @@ public class MemberService {
      */
     public Long join(Member member){
         // 같은 이름이 있는 중복 회원X
-        validateDuplicatedMember(member);
         memberRespository.save(member);
         return member.getId();
     }

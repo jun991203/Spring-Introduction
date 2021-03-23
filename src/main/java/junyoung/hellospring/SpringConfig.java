@@ -1,5 +1,6 @@
 package junyoung.hellospring;
 
+import junyoung.hellospring.aop.TimeTraceAop;
 import junyoung.hellospring.domain.Member;
 import junyoung.hellospring.repository.*;
 import junyoung.hellospring.service.MemberService;
@@ -31,6 +32,7 @@ public class SpringConfig {
     public MemberService memberService(){
         return new MemberService(memberRespository);
     }
+
 
 //    @Bean
 //    public MemberRespository memberRespository(){
